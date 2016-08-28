@@ -10,6 +10,8 @@ color:
     - '#63B3B0'
     - '#5E5E5E'
     - '#9765D4'
+opengraph:
+  appId: '212060872491388'
 layout_spectrum: 0.8554505470674485
 author:
   name: Support
