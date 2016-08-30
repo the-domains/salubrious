@@ -1,3 +1,4 @@
+layout_spectrum: 0.8554505470674485
 typography_spectrum: 0.7267804287839681
 color:
   brandStrength: 0.008840892696753144
@@ -5,21 +6,9 @@ color:
   saturation: 0.492357830516994
   rhythmicContrast: 0.3022774690762162
   brandColors:
-    - '#FFFFFF'
-    - '#1C92D2'
-    - '#63B3B0'
-    - '#5E5E5E'
-    - '#9765D4'
-opengraph:
-  appId: ''
-  type: ''
-layout_spectrum: 0.8554505470674485
-author:
-  name: Support
-  email: support@salubrious.health
-  url: www.salubrious.health
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/03b56842-9bba-4d37-9a3b-32d1799b467f.jpg
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Salubrious
-title: Salubrious
-description: Health & Wellbeing Apps
